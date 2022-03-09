@@ -14,6 +14,7 @@ public class greatest {
 
         else
             System.out.println("b is greater");
+            s.close();
 
     }
 }
