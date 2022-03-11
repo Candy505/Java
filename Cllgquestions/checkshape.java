@@ -15,7 +15,7 @@ class triangle
            System.out.println("Scalene triangle");
            
            else   
-           System.out.println("Isoceles ")
+           System.out.println("Isoceles ");
           
    }
 }
@@ -32,6 +32,8 @@ public class checkshape {
        int z = s.nextInt();
 
      t.ch(x,y,z);
+
+     s.close();
 
     }
 }
